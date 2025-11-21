@@ -11,3 +11,5 @@ print(f"{tab} X {8:2} = {tab*8}")
 print(f"{tab} X {9:2} = {tab*9}")
 print(f"{tab} X {10:2} = {tab*10}")
 print("-" * 15)
+
+# Programa simples que faz a tabuada do numero digitado pelo usuario! 
