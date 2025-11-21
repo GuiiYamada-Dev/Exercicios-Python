@@ -7,3 +7,5 @@ hm = medida / 100
 km = medida / 1000
 print(f"A media de {medida}m equivale a {dm:.0f}dm, {cm:.0f}cm e {mm:.0f}mm")
 print(f"A media de {medida}m equivale a {dam:.0f}dam, {hm:.0f}hm e {km:.0f}km ")
+
+# Programa que converte uma distância em metros para outras unidades de medida.
