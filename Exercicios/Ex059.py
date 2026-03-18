@@ -26,6 +26,7 @@ while escolha != 5:
     else:
         print("Ops! Parece que você digitou errado, tente novamente!")
     print("=-=" * 20)
+    sleep(1)
 
 #programa no qual criamos um menu de opções para que o usuario possa decidir o que fazer com os dois primeiros numeros digitados!
 
