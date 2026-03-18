@@ -16,6 +16,8 @@ while escolha != 5:
     elif escolha == 3:
         if n1 > n2:
             print(f"Entre os valores {n1} e {n2} o maior valor digitado foi {n1}")
+        elif n1 == n2:
+            print(f"Os valores são iguais! por tanto o maior reside em ambas as posições, sendo ele o numero {n1}")
         else: 
             print(f"Entre os valores {n1} e {n2} o maior valor digitado foi {n2}")
     elif escolha == 4:
